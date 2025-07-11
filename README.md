@@ -9,7 +9,11 @@ virtual machines.
 
 
 ##TOOLS
+Oracle Virtual Box Manager
 
+Kali Linux Box
+
+Metasploitable 3
 
 ##DOCUMENTATION
 
