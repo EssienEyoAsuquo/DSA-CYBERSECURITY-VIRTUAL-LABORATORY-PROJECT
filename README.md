@@ -21,4 +21,5 @@ and Microsoft Windows 7
 
 
 
+<img width="471" height="312" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/b2272c5b-11c9-4e15-9844-280f3f15b1eb" />
 
