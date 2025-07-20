@@ -8,7 +8,7 @@ To simulate a secure, real-world environment for offensive and defensive securit
 virtual machines.
 
 
-##TOOLS USEED
+##TOOLS USED
 - Oracle Virtual Box Manager
 - Kali Linux Box
 - Metasploitable 3
